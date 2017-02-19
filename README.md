@@ -6,6 +6,8 @@
 ![alt tag](https://github.com/MarieSandal/AP/blob/gh-pages/Mini_Exercise_2/2017-02-19%20(1).png)
 ![alt tag](https://github.com/MarieSandal/AP/blob/gh-pages/Mini_Exercise_2/2017-02-19.png)
 
+Link to my sketch: https://mariesandal.github.io/AP/Mini_Exercise_2/empty-example/
+
 Learning to code in p5.js was actually a very good experience. I think it helps a lot that there are so many tutorials and sample codes that you can use, when you are new to programming. My mini exercise 2 is still very basic, because of my lack of experience, but I don’t think I’m as terrified now as I was going into this course. First, I wanted him to look complete, but then I figured that in some programs a real glitch could be, when parts of a face are missing or misplaced. I then moved his eyes away from his face to make the glitch noticeable. 
 
 •	What constitutes a program? 
