@@ -1,5 +1,5 @@
 ##Mini Exercise 3
-Link to my throbber: https://mariesandal.github.io/AP/mini_ex_3/empty-example/
+**Link to my throbber: https://mariesandal.github.io/AP/mini_ex_3/empty-example/**
 
 
 Describe a bit about your throbber design (your concept and execution):
