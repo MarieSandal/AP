@@ -1,4 +1,4 @@
-#The title of my work is: the flying balloons
+# The Flying Balloons
 ![alt tag] (https://github.com/MarieSandal/AP/blob/gh-pages/mini_ex_4/empty-example/screenshot.png)
 
 Link: https://rawgit.com/MarieSandal/AP/gh-pages/mini_ex_4/empty-example/index.html
