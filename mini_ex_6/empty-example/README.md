@@ -1,6 +1,6 @@
 ![alt tag](https://github.com/MarieSandal/AP/blob/gh-pages/mini_ex_6/empty-example/2017-03-19%20(1).png)
 
-# Link to my program: https://rawgit.com/MarieSandal/AP/gh-pages/mini_ex_6/empty-example/index.html
+### Link to my program: https://rawgit.com/MarieSandal/AP/gh-pages/mini_ex_6/empty-example/index.html
 
 ## Title of my work: Colors of my thoughts
 
