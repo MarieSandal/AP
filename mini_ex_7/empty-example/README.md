@@ -1,7 +1,7 @@
 ![alt tag](https://github.com/MarieSandal/AP/blob/gh-pages/mini_ex_7/empty-example/2017-03-27%20(1).png)
-#####Link to my work: https://rawgit.com/MarieSandal/AP/gh-pages/mini_ex_7/empty-example/index.html
+##### Link to my work: https://rawgit.com/MarieSandal/AP/gh-pages/mini_ex_7/empty-example/index.html
 
-#####The title of my work is: Drawing with Checkboxes
+##### The title of my work is: Drawing with Checkboxes
 
 I like the idea of using objects in programming, because it makes everything easier and look neater, so you don't end up getting confused/overwhelmed looking at your code. Unfortunately this time around I didn't end up making my own objects. I only used imputs that are already made in the .dom library. 
 
