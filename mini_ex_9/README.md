@@ -1,4 +1,4 @@
-
+![alt tag](https://github.com/MarieSandal/AP/blob/gh-pages/mini_ex_9/2017-04-17.png)
 #### Link to our program: https://rawgit.com/MarieSandal/AP/gh-pages/mini_ex_9/empty-example/index.html
 
 #### •	Which API have you chosen? and Why?
